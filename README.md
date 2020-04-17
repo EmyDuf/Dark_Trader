@@ -1,4 +1,4 @@
-Structure
+# Structure
 
 ```
 ├── lib
@@ -9,4 +9,4 @@ Structure
 └── Gemfile
 ```
 
-    `crypto_scraper.rb` : scrapes data from CoinMarketCap and returns current prices for corresponding cryptocurrencies.
+1.    `crypto_scraper.rb` : scrapes data from CoinMarketCap and returns current prices for corresponding cryptocurrencies.
