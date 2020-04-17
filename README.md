@@ -2,9 +2,9 @@
 
 ```
 ├── lib
-│   ├── crypto_scraper.rb
+│   ├── dark_trader.rb
 ├── spec
-│   ├── crypto_scraper_spec.rb
+│   ├── dark_trader_spec.rb
 ├── README.md
 └── Gemfile
 ```
